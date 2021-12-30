@@ -1,0 +1,15 @@
+[submodule "/home/erel/.vim/pack/plugins/start/vim-polyglot"]
+	path = /home/erel/.vim/pack/plugins/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "/home/erel/.vim/pack/plugins/start/gruvbox"]
+	path = /home/erel/.vim/pack/plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "/home/erel/.vim/pack/plugins/start/lightline"]
+	path = /home/erel/.vim/pack/plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "/home/erel/.vim/pack/vendor/start/nerdtree"]
+	path = /home/erel/.vim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "/home/erel/.vim/pack/plugins/start/nerdtree"]
+	path = /home/erel/.vim/pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
