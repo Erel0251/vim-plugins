@@ -10,3 +10,9 @@
 [submodule "/home/erel/.vim/pack/plugins/start/nerdtree"]
 	path = /home/erel/.vim/pack/plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "/home/erel/.vim/pack/plugins/start/ale"]
+	path = /home/erel/.vim/pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "/home/erel/.vim/pack/plugins/start/dracula"]
+	path = /home/erel/.vim/pack/plugins/start/dracula
+	url = https://github.com/dracula/vim.git
